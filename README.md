@@ -1,2 +1,0 @@
-# EFK stack on Kubernetes
-
