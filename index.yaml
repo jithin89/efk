@@ -3,7 +3,7 @@ entries:
   efk:
   - apiVersion: v1
     appVersion: 6.4.2
-    created: "2021-01-26T00:48:42.060199+01:00"
+    created: "2021-01-26T11:08:40.433633+01:00"
     dependencies:
     - name: elasticsearch
       repository: file://../elasticsearch
@@ -27,7 +27,7 @@ entries:
       repository: https://kubernetes-charts.storage.googleapis.com/
       version: 1.7.0
     description: EFK stack
-    digest: 49e6096def6f2f2c118df772ca5dd62b2ee5dc726bf93f128787a3a5d9bb8aff
+    digest: c541085399bae567f356edd14673023e38efea12b2ad4e7e1803ba06418a52a4
     keywords:
     - elasticsearch
     - kibana
@@ -40,4 +40,4 @@ entries:
     urls:
     - efk-0.4.1.tgz
     version: 0.4.1
-generated: "2021-01-26T00:48:42.046207+01:00"
+generated: "2021-01-26T11:08:40.423478+01:00"
