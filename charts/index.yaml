@@ -3,7 +3,7 @@ entries:
   efk:
   - apiVersion: v1
     appVersion: 6.4.2
-    created: "2021-01-26T11:08:40.433633+01:00"
+    created: "2021-01-26T11:58:18.147759+01:00"
     dependencies:
     - name: elasticsearch
       repository: file://../elasticsearch
@@ -40,4 +40,4 @@ entries:
     urls:
     - efk-0.4.1.tgz
     version: 0.4.1
-generated: "2021-01-26T11:08:40.423478+01:00"
+generated: "2021-01-26T11:58:18.136434+01:00"
